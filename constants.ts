@@ -11,7 +11,8 @@ export const ACTIVITIES = [
     title: "Round Cricket Turf",
     description: "Experience cricket on our massive circular turf.",
     spec: "110M² Diameter",
-    image: "https://lh3.googleusercontent.com/d/14_3beuQUWKzjc_fJJHDpFUuLQmddyaef",
+    // Converted to direct link
+    image: "https://lh3.googleusercontent.com/d/18aEqGb9kCPASOccbFaMlhcYFNnymeag9",
     icon: CircleDot,
   },
   {

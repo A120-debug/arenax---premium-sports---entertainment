@@ -39,14 +39,6 @@ export const Navbar: React.FC = () => {
             <div className="absolute inset-0 bg-blue-500/20 blur-xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
             <Logo className="relative z-10 h-16 md:h-24 w-auto transition-transform duration-300 group-hover:scale-105 filter drop-shadow-lg" />
           </div>
-          
-          {/* Stylish Divider */}
-          <div className="h-10 md:h-14 w-px bg-gradient-to-b from-transparent via-slate-600/50 to-transparent mx-5 md:mx-6"></div>
-          
-          {/* Brand Text */}
-          <span className="text-2xl md:text-4xl font-black tracking-tighter text-white">
-            ARENA<span className="text-blue-500 drop-shadow-[0_0_15px_rgba(59,130,246,0.6)]">X</span>
-          </span>
         </a>
 
         {/* Desktop Nav */}
